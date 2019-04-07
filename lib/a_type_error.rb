@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+(1 number.to_i).to_s + "is the loneliest number"
